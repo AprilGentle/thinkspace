@@ -15,16 +15,34 @@ Let's start with a informative paragraph. **This text is bolded.** But not this 
 ## Headings H1 to H6
 
 # H1 Heading
+``` markdown
+# H1 Heading
+```
 
 ## H2 Heading
+``` markdown
+## H2 Heading
+```
 
 ### H3 Heading
+``` markdown
+### H3 Heading
+```
 
 #### H4 Heading
+``` markdown
+#### H4 Heading
+```
 
 ##### H5 Heading
+``` markdown
+##### H5 Heading
+```
 
 ###### H6 Heading
+``` markdown
+###### H6 Heading
+```
 
 <div class="divider"></div>
 
