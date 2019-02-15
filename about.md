@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: Todo@xyz.com
 
 * 姓名: april
