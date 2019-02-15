@@ -13,6 +13,7 @@ comments_enabled  : false # if enabled (set to true), please provide your disqus
 disqus_shortname  : ""
 postshare_enabled : false
 
+path_prefix: /thinkspace
 # Build settings
 permalink   : /:year/:title/
 markdown    : kramdown
